@@ -94,12 +94,6 @@ The scheduler checks for loans with DPD ≥ 75 every 2 minutes and starts a work
 
 The worker processes the workflow tasks and activities, connecting to the Temporal server.
 
-### Approval Client
-
-A simple client that allows legal managers and L1 approvers to:
-1. List pending workflows that need approval
-2. Select a workflow by number
-3. Send an approval signal to the selected workflow
 
 ### Activities
 
